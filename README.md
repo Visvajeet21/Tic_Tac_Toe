@@ -48,8 +48,4 @@ A simple and fun Tic-Tac-Toe game built using HTML, CSS, JavaScript. This projec
 ![image](https://github.com/user-attachments/assets/8640eb2c-f5f1-43fe-bff8-342c7df4e5ca)
 ![image](https://github.com/user-attachments/assets/5c7150a7-9985-465d-90b9-9a0dcbe03ecf)
 
-# Contact
-
-Feel free to reach out via [your-email@example.com](mailto:your-email@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile/).
-
 # Have fun playing Tic-Tac-Toe! 🎉
