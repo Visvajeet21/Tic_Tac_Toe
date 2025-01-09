@@ -27,7 +27,7 @@ A simple and fun Tic-Tac-Toe game built using HTML, CSS, JavaScript. This projec
 
 # Demo
 
-[[Live Demo Link](#) (If hosted, e.g., on GitHub Pages or Netlify)](https://visvajeet21.github.io/Tic_Tac_Toe/)
+https://visvajeet21.github.io/Tic_Tac_Toe/
 
 # Customization
 
